@@ -14,6 +14,7 @@
 | 2024-07-09 | Tuesday    | [CSV](2024/nse-cm-bhavcopy-2024-07-09.csv) (474 kB) | [MD](2024/nse-cm-bhavcopy-2024-07-09.md) (665 kB) |
 | 2024-07-10 | Wednesday  | [CSV](2024/nse-cm-bhavcopy-2024-07-10.csv) (477 kB) | [MD](2024/nse-cm-bhavcopy-2024-07-10.md) (670 kB) |
 | 2024-07-11 | Thursday   | [CSV](2024/nse-cm-bhavcopy-2024-07-11.csv) (470 kB) | [MD](2024/nse-cm-bhavcopy-2024-07-11.md) (660 kB) |
+| 2024-07-12 | Friday     | [CSV](2024/nse-cm-bhavcopy-2024-07-12.csv) (469 kB) | [MD](2024/nse-cm-bhavcopy-2024-07-12.md) (659 kB) |
 
 
 
