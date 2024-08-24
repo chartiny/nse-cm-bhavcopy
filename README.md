@@ -16,6 +16,11 @@
 | 9 | 2024-08-13 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-08-13.csv)<br>477 kB | [MD](2024/nse-cm-bhavcopy-2024-08-13.md)<br>670 kB |
 | 10 | 2024-08-14 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-08-14.csv)<br>474 kB | [MD](2024/nse-cm-bhavcopy-2024-08-14.md)<br>666 kB |
 | 11 | 2024-08-16 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-08-16.csv)<br>474 kB | [MD](2024/nse-cm-bhavcopy-2024-08-16.md)<br>665 kB |
+| 12 | 2024-08-19 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-08-19.csv)<br>481 kB | [MD](2024/nse-cm-bhavcopy-2024-08-19.md)<br>676 kB |
+| 13 | 2024-08-20 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-08-20.csv)<br>476 kB | [MD](2024/nse-cm-bhavcopy-2024-08-20.md)<br>668 kB |
+| 14 | 2024-08-21 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-08-21.csv)<br>475 kB | [MD](2024/nse-cm-bhavcopy-2024-08-21.md)<br>667 kB |
+| 15 | 2024-08-22 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-08-22.csv)<br>481 kB | [MD](2024/nse-cm-bhavcopy-2024-08-22.md)<br>676 kB |
+| 16 | 2024-08-23 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-08-23.csv)<br>475 kB | [MD](2024/nse-cm-bhavcopy-2024-08-23.md)<br>667 kB |
 
 
 
