@@ -1,6 +1,18 @@
 
 # nse-cm-bhavcopy
 
+## September 2024
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2024-09-02 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-09-02.csv)<br>489 kB | [MD](2024/nse-cm-bhavcopy-2024-09-02.md)<br>687 kB |
+| 2 | 2024-09-03 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-09-03.csv)<br>481 kB | [MD](2024/nse-cm-bhavcopy-2024-09-03.md)<br>675 kB |
+| 3 | 2024-09-04 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-09-04.csv)<br>476 kB | [MD](2024/nse-cm-bhavcopy-2024-09-04.md)<br>669 kB |
+| 4 | 2024-09-05 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-09-05.csv)<br>477 kB | [MD](2024/nse-cm-bhavcopy-2024-09-05.md)<br>669 kB |
+| 5 | 2024-09-06 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-09-06.csv)<br>479 kB | [MD](2024/nse-cm-bhavcopy-2024-09-06.md)<br>673 kB |
+
+
+
 ## August 2024
 
 | No | Date | Day | CSV | Markdown |
