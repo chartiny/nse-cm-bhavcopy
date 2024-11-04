@@ -1,6 +1,14 @@
 
 # nse-cm-bhavcopy
 
+## November 2024
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2024-11-01 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-11-01.csv)<br>461 kB | [MD](2024/nse-cm-bhavcopy-2024-11-01.md)<br>649 kB |
+
+
+
 ## October 2024
 
 | No | Date | Day | CSV | Markdown |
@@ -23,6 +31,10 @@
 | 16 | 2024-10-23 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-10-23.csv)<br>484 kB | [MD](2024/nse-cm-bhavcopy-2024-10-23.md)<br>680 kB |
 | 17 | 2024-10-24 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-10-24.csv)<br>480 kB | [MD](2024/nse-cm-bhavcopy-2024-10-24.md)<br>675 kB |
 | 18 | 2024-10-25 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-10-25.csv)<br>491 kB | [MD](2024/nse-cm-bhavcopy-2024-10-25.md)<br>690 kB |
+| 19 | 2024-10-28 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-10-28.csv)<br>493 kB | [MD](2024/nse-cm-bhavcopy-2024-10-28.md)<br>693 kB |
+| 20 | 2024-10-29 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-10-29.csv)<br>484 kB | [MD](2024/nse-cm-bhavcopy-2024-10-29.md)<br>680 kB |
+| 21 | 2024-10-30 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-10-30.csv)<br>482 kB | [MD](2024/nse-cm-bhavcopy-2024-10-30.md)<br>677 kB |
+| 22 | 2024-10-31 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-10-31.csv)<br>481 kB | [MD](2024/nse-cm-bhavcopy-2024-10-31.md)<br>677 kB |
 
 
 
