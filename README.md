@@ -6,6 +6,11 @@
 | No | Date | Day | CSV | Markdown |
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | 2024-11-01 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-11-01.csv)<br>461 kB | [MD](2024/nse-cm-bhavcopy-2024-11-01.md)<br>649 kB |
+| 2 | 2024-11-04 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-11-04.csv)<br>498 kB | [MD](2024/nse-cm-bhavcopy-2024-11-04.md)<br>699 kB |
+| 3 | 2024-11-05 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-11-05.csv)<br>489 kB | [MD](2024/nse-cm-bhavcopy-2024-11-05.md)<br>688 kB |
+| 4 | 2024-11-06 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-11-06.csv)<br>495 kB | [MD](2024/nse-cm-bhavcopy-2024-11-06.md)<br>695 kB |
+| 5 | 2024-11-07 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-11-07.csv)<br>490 kB | [MD](2024/nse-cm-bhavcopy-2024-11-07.md)<br>689 kB |
+| 6 | 2024-11-08 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-11-08.csv)<br>486 kB | [MD](2024/nse-cm-bhavcopy-2024-11-08.md)<br>684 kB |
 
 
 
