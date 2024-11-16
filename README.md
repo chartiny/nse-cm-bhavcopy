@@ -11,6 +11,10 @@
 | 4 | 2024-11-06 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-11-06.csv)<br>495 kB | [MD](2024/nse-cm-bhavcopy-2024-11-06.md)<br>695 kB |
 | 5 | 2024-11-07 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-11-07.csv)<br>490 kB | [MD](2024/nse-cm-bhavcopy-2024-11-07.md)<br>689 kB |
 | 6 | 2024-11-08 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-11-08.csv)<br>486 kB | [MD](2024/nse-cm-bhavcopy-2024-11-08.md)<br>684 kB |
+| 7 | 2024-11-11 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-11-11.csv)<br>495 kB | [MD](2024/nse-cm-bhavcopy-2024-11-11.md)<br>695 kB |
+| 8 | 2024-11-12 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-11-12.csv)<br>488 kB | [MD](2024/nse-cm-bhavcopy-2024-11-12.md)<br>685 kB |
+| 9 | 2024-11-13 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-11-13.csv)<br>489 kB | [MD](2024/nse-cm-bhavcopy-2024-11-13.md)<br>686 kB |
+| 10 | 2024-11-14 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-11-14.csv)<br>489 kB | [MD](2024/nse-cm-bhavcopy-2024-11-14.md)<br>688 kB |
 
 
 
