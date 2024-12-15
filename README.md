@@ -1,6 +1,23 @@
 
 # nse-cm-bhavcopy
 
+## December 2024
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2024-12-02 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-12-02.csv)<br>497 kB | [MD](2024/nse-cm-bhavcopy-2024-12-02.md)<br>698 kB |
+| 2 | 2024-12-03 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-12-03.csv)<br>492 kB | [MD](2024/nse-cm-bhavcopy-2024-12-03.md)<br>691 kB |
+| 3 | 2024-12-04 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-12-04.csv)<br>490 kB | [MD](2024/nse-cm-bhavcopy-2024-12-04.md)<br>688 kB |
+| 4 | 2024-12-05 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-12-05.csv)<br>488 kB | [MD](2024/nse-cm-bhavcopy-2024-12-05.md)<br>685 kB |
+| 5 | 2024-12-06 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-12-06.csv)<br>493 kB | [MD](2024/nse-cm-bhavcopy-2024-12-06.md)<br>692 kB |
+| 6 | 2024-12-09 | Monday | [CSV](2024/nse-cm-bhavcopy-2024-12-09.csv)<br>498 kB | [MD](2024/nse-cm-bhavcopy-2024-12-09.md)<br>700 kB |
+| 7 | 2024-12-10 | Tuesday | [CSV](2024/nse-cm-bhavcopy-2024-12-10.csv)<br>491 kB | [MD](2024/nse-cm-bhavcopy-2024-12-10.md)<br>690 kB |
+| 8 | 2024-12-11 | Wednesday | [CSV](2024/nse-cm-bhavcopy-2024-12-11.csv)<br>490 kB | [MD](2024/nse-cm-bhavcopy-2024-12-11.md)<br>688 kB |
+| 9 | 2024-12-12 | Thursday | [CSV](2024/nse-cm-bhavcopy-2024-12-12.csv)<br>490 kB | [MD](2024/nse-cm-bhavcopy-2024-12-12.md)<br>688 kB |
+| 10 | 2024-12-13 | Friday | [CSV](2024/nse-cm-bhavcopy-2024-12-13.csv)<br>487 kB | [MD](2024/nse-cm-bhavcopy-2024-12-13.md)<br>684 kB |
+
+
+
 ## November 2024
 
 | No | Date | Day | CSV | Markdown |
