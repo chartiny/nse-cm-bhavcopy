@@ -1,6 +1,18 @@
 
 # nse-cm-bhavcopy
 
+## March 2025
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2025-03-03 | Monday | [CSV](2025/nse-cm-bhavcopy-2025-03-03.csv)<br>511 kB | [MD](2025/nse-cm-bhavcopy-2025-03-03.md)<br>719 kB |
+| 2 | 2025-03-04 | Tuesday | [CSV](2025/nse-cm-bhavcopy-2025-03-04.csv)<br>500 kB | [MD](2025/nse-cm-bhavcopy-2025-03-04.md)<br>703 kB |
+| 3 | 2025-03-05 | Wednesday | [CSV](2025/nse-cm-bhavcopy-2025-03-05.csv)<br>501 kB | [MD](2025/nse-cm-bhavcopy-2025-03-05.md)<br>705 kB |
+| 4 | 2025-03-06 | Thursday | [CSV](2025/nse-cm-bhavcopy-2025-03-06.csv)<br>506 kB | [MD](2025/nse-cm-bhavcopy-2025-03-06.md)<br>712 kB |
+| 5 | 2025-03-07 | Friday | [CSV](2025/nse-cm-bhavcopy-2025-03-07.csv)<br>505 kB | [MD](2025/nse-cm-bhavcopy-2025-03-07.md)<br>710 kB |
+
+
+
 ## February 2025
 
 | No | Date | Day | CSV | Markdown |
